@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2024Work\\Raymar-QuickBooks\\RaymarEquipApp\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj": {}
+    "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj": {}
   },
   "projects": {
-    "D:\\2024Work\\Raymar-QuickBooks\\RaymarEquipApp\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj": {
+    "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2024Work\\Raymar-QuickBooks\\RaymarEquipApp\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
+        "projectUniqueName": "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
         "projectName": "RaymarEquipmentInventory",
-        "projectPath": "D:\\2024Work\\Raymar-QuickBooks\\RaymarEquipApp\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
+        "projectPath": "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "D:\\2024Work\\Raymar-QuickBooks\\RaymarEquipApp\\RaymarEquipmentInventory\\obj\\",
+        "outputPath": "D:\\2024Work\\RaymarEquipmentInventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

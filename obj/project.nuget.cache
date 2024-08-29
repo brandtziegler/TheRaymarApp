@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mn/z8IuZCDA=",
+  "dgSpecHash": "iyfhM4kILTk=",
   "success": true,
-  "projectFilePath": "D:\\2024Work\\Raymar-QuickBooks\\RaymarEquipApp\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
+  "projectFilePath": "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

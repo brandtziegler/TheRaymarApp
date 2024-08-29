@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaymarEquipmentInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de35ed69a855df08d20af2ec42941d213592da3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaymarEquipmentInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaymarEquipmentInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
