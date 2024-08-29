@@ -1,0 +1,6 @@
+@RaymarEquipmentInventory_HostAddress = http://localhost:5229
+
+GET {{RaymarEquipmentInventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
