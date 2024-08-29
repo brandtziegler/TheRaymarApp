@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\Source\\Repos\\brandtziegler\\TheRaymarApp\\RaymarEquipmentInventory.csproj",
       "projectName": "RaymarEquipmentInventory",
-      "projectPath": "D:\\2024Work\\RaymarEquipmentInventory\\RaymarEquipmentInventory.csproj",
+      "projectPath": "C:\\Users\\brand\\Source\\Repos\\brandtziegler\\TheRaymarApp\\RaymarEquipmentInventory.csproj",
       "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "D:\\2024Work\\RaymarEquipmentInventory\\obj\\",
+      "outputPath": "C:\\Users\\brand\\Source\\Repos\\brandtziegler\\TheRaymarApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
